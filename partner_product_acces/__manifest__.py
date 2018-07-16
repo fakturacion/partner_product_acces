@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
     "name": "Permisos de Usuario (Cliente y Producto)",
-    'author': "Falcón Solutions",
-    'maintainer': 'Falcon Solutions',
+    'author': "Falcon Solutions SpA",
+    'maintainer': 'Falcon Solutions SpA',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     "version": "10.0.0.0.1",
