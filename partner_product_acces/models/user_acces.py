@@ -100,4 +100,4 @@ class UserAnalyticAcces(models.Model):
         if self.env.user.analytic_acces == False:
             error = self.env.user.login," Usted no tiene Permisos para Eliminar Apuntes Analiticos.\n Debe solicitar acceso en Configuración->Usuarios->Permisos Adicionales "
             raise UserError(error)
-        return super(UserAnalyticLineAccess, self).unlink()
+        return super(UserAnalyticAcces, self).unlink()
